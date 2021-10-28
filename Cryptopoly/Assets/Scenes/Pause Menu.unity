@@ -728,6 +728,7 @@ GameObject:
   - component: {fileID: 624951508}
   - component: {fileID: 624951510}
   - component: {fileID: 624951509}
+  - component: {fileID: 624951511}
   m_Layer: 5
   m_Name: Dollar
   m_TagString: Untagged
@@ -792,6 +793,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 624951507}
   m_CullTransparentMesh: 1
+--- !u!114 &624951511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 624951507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10ea741dd7d94b4c82a3063c9fcde0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &735896573
 GameObject:
   m_ObjectHideFlags: 0
@@ -803,6 +816,7 @@ GameObject:
   - component: {fileID: 735896574}
   - component: {fileID: 735896576}
   - component: {fileID: 735896575}
+  - component: {fileID: 735896577}
   m_Layer: 5
   m_Name: Pound
   m_TagString: Untagged
@@ -867,6 +881,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 735896573}
   m_CullTransparentMesh: 1
+--- !u!114 &735896577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735896573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10ea741dd7d94b4c82a3063c9fcde0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &940525289
 GameObject:
   m_ObjectHideFlags: 0
@@ -966,6 +992,7 @@ GameObject:
   - component: {fileID: 1248991424}
   - component: {fileID: 1248991426}
   - component: {fileID: 1248991425}
+  - component: {fileID: 1248991427}
   m_Layer: 5
   m_Name: Rupees
   m_TagString: Untagged
@@ -1030,6 +1057,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1248991423}
   m_CullTransparentMesh: 1
+--- !u!114 &1248991427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248991423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10ea741dd7d94b4c82a3063c9fcde0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1272316368
 GameObject:
   m_ObjectHideFlags: 0
@@ -1074,7 +1113,7 @@ MonoBehaviour:
   m_TrackedDevicePositionAction: {fileID: 4754684134866288074, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
   m_TrackedDeviceOrientationAction: {fileID: 1025543830046995696, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
   m_DeselectOnBackgroundClick: 1
-  m_PointerBehavior: 0
+  m_PointerBehavior: 1
 --- !u!114 &1272316370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1115,6 +1154,7 @@ GameObject:
   - component: {fileID: 1566501442}
   - component: {fileID: 1566501444}
   - component: {fileID: 1566501443}
+  - component: {fileID: 1566501445}
   m_Layer: 5
   m_Name: Yen
   m_TagString: Untagged
@@ -1179,6 +1219,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566501441}
   m_CullTransparentMesh: 1
+--- !u!114 &1566501445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566501441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10ea741dd7d94b4c82a3063c9fcde0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1641825041
 GameObject:
   m_ObjectHideFlags: 0
