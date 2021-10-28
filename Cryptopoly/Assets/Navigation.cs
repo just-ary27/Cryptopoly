@@ -5,18 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class Navigation : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void PlayGame(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
@@ -32,6 +20,21 @@ public class Navigation : MonoBehaviour
     }
 
     public void BackToMain()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void game()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void pauseMenu()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void quit()
     {
         SceneManager.LoadScene(0);
     }
