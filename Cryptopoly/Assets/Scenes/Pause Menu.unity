@@ -729,7 +729,7 @@ GameObject:
   - component: {fileID: 624951510}
   - component: {fileID: 624951509}
   m_Layer: 5
-  m_Name: currency1
+  m_Name: Dollar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -804,7 +804,7 @@ GameObject:
   - component: {fileID: 735896576}
   - component: {fileID: 735896575}
   m_Layer: 5
-  m_Name: currency3
+  m_Name: Pound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -879,7 +879,7 @@ GameObject:
   - component: {fileID: 940525292}
   - component: {fileID: 940525291}
   m_Layer: 5
-  m_Name: currency2
+  m_Name: Euro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -954,7 +954,7 @@ GameObject:
   - component: {fileID: 1248991426}
   - component: {fileID: 1248991425}
   m_Layer: 5
-  m_Name: currency4
+  m_Name: Rupees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1103,7 +1103,7 @@ GameObject:
   - component: {fileID: 1566501444}
   - component: {fileID: 1566501443}
   m_Layer: 5
-  m_Name: currency5
+  m_Name: Yen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1178,7 +1178,7 @@ GameObject:
   - component: {fileID: 1641825044}
   - component: {fileID: 1641825043}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Paused
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
