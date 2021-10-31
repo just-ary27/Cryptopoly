@@ -4,9 +4,14 @@ using UnityEngine;
 
 public class User : MonoBehaviour
 {
-    private static string userName;
-    private static string userPassword;
-    private static string userId;
+    private string userName;
+    private string userPassword;
+    private string userId;
+    private string pfpLink;
+
+    // private Time formedOn;
+
+    public global::System.String UID { get => this.userId; set => this.userId = value; }
     // Start is called before the first frame update
     void Start()
     {
